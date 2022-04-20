@@ -10,7 +10,7 @@ if ((age >= age_2) && (age < age_3))
 {console.log('Welcome !')}
 if (age > age_3)
 {console.log('Keep calm and look Culture channel')}
-} else 
+} if (age == age_3) 
 {console.log('Technical work')}
 }
 checkAge(17)

@@ -11,6 +11,8 @@ const checkAge = function(age) {
     {console.log('Welcome !')}
     if (age > age_3)
     {console.log('Keep calm and look Culture channel')}
+    if (age == age_3) 
+    {console.log('Technical work')}
     }}
     checkAge(17)
     checkAge(18)

@@ -17,4 +17,6 @@
     {alert('Welcome !')}
     if (age > age_3)
     {alert('Keep calm and look Culture channel')}
+    if (age == age_3) 
+    {alert('Technical work')}
     }}
